@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nahum .DESKTOP-CEP5SH2\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nahum .DESKTOP-CEP5SH2\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

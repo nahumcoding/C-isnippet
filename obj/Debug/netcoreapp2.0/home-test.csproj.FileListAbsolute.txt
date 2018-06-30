@@ -1,0 +1,12 @@
+C:\Users\nahum .DESKTOP-CEP5SH2\source\repos\home-test\bin\Debug\netcoreapp2.0\home-test.deps.json
+C:\Users\nahum .DESKTOP-CEP5SH2\source\repos\home-test\bin\Debug\netcoreapp2.0\home-test.runtimeconfig.json
+C:\Users\nahum .DESKTOP-CEP5SH2\source\repos\home-test\bin\Debug\netcoreapp2.0\home-test.runtimeconfig.dev.json
+C:\Users\nahum .DESKTOP-CEP5SH2\source\repos\home-test\bin\Debug\netcoreapp2.0\home-test.dll
+C:\Users\nahum .DESKTOP-CEP5SH2\source\repos\home-test\bin\Debug\netcoreapp2.0\home-test.pdb
+C:\Users\nahum .DESKTOP-CEP5SH2\source\repos\home-test\obj\Debug\netcoreapp2.0\home-test.csprojAssemblyReference.cache
+C:\Users\nahum .DESKTOP-CEP5SH2\source\repos\home-test\obj\Debug\netcoreapp2.0\home-test.csproj.CoreCompileInputs.cache
+C:\Users\nahum .DESKTOP-CEP5SH2\source\repos\home-test\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\nahum .DESKTOP-CEP5SH2\source\repos\home-test\obj\Debug\netcoreapp2.0\home-test.AssemblyInfoInputs.cache
+C:\Users\nahum .DESKTOP-CEP5SH2\source\repos\home-test\obj\Debug\netcoreapp2.0\home-test.AssemblyInfo.cs
+C:\Users\nahum .DESKTOP-CEP5SH2\source\repos\home-test\obj\Debug\netcoreapp2.0\home-test.dll
+C:\Users\nahum .DESKTOP-CEP5SH2\source\repos\home-test\obj\Debug\netcoreapp2.0\home-test.pdb
